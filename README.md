@@ -5,14 +5,9 @@
 
 <p align="center">Nessa live vimos o poder do <a href="https://www.prisma.io">PrismaIO</a> e os motivos para usarmos ele em nossas aplicações</p>
 
-## 👨🏼‍💻 Instrutor
+## 👨🏼‍💻 Aluno
 
-- [Dani Leão](https://www.instagram.com/dani_leao/)
-
-## ✋🏻 Pré-requisitos
-
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](classic.yarnpkg.com/en/docs/install)
+- [Paulo Fagundes](https://www.linkedin.com/in/paulo-fagundes-381890aa)
 
 ## 🔥 Instalação e execução
 
@@ -21,7 +16,7 @@
 3. Rode `yarn` ;
 4. Rode `yarn prisma generate` para instalar os models do prisma no projeto
 5. Rode `yarn dev` ou `npm run dev` para rodar a aplicação;
-6. Acesse a URL `http://localhost:4003`;
+6. Acesse a URL `http://localhost:3000`;
 
 ## Como mostrar log da aplicação?
 
@@ -49,8 +44,3 @@ const product = await prismaClient.product.findFirst({
 });
 ```
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com 💖 by Rocketseat 👋 [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
