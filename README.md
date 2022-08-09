@@ -1,9 +1,7 @@
 <h1 align="center">
-  <center>Prisma: o ORM Node.js que você precisa em 2022
+  <center>Consumindo Api usando o ORM do Prisma e o Node.js
 </center>
 </h1>
-
-<p align="center">Nessa live vimos o poder do <a href="https://www.prisma.io">PrismaIO</a> e os motivos para usarmos ele em nossas aplicações</p>
 
 ## 👨🏼‍💻 Aluno
 
@@ -12,7 +10,7 @@
 ## 🔥 Instalação e execução
 
 1. Faça um clone desse repositório;
-2. Entre na pasta `cd prisma_decode`;
+2. Entre na pasta `cd Migration-Api-node`;
 3. Rode `yarn` ;
 4. Rode `yarn prisma generate` para instalar os models do prisma no projeto
 5. Rode `yarn dev` ou `npm run dev` para rodar a aplicação;
